@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangchris11/Desktop/CSE547/cse576_sp20_hw1/src/image.h
+cassert
+-
+cstring
+-
+cmath
+-
+algorithm
+-
+string
+-
+vector
+-
+stdexcept
+-
+utils.h
+/Users/yangchris11/Desktop/CSE547/cse576_sp20_hw1/src/utils.h
+
+/Users/yangchris11/Desktop/CSE547/cse576_sp20_hw1/src/test/test0.cpp
+../image.h
+/Users/yangchris11/Desktop/CSE547/cse576_sp20_hw1/src/image.h
+../utils.h
+/Users/yangchris11/Desktop/CSE547/cse576_sp20_hw1/src/utils.h
+string
+-
+
+/Users/yangchris11/Desktop/CSE547/cse576_sp20_hw1/src/utils.h
+vector
+-
+string
+-
+chrono
+-
+thread
+-
+mutex
+-
+
